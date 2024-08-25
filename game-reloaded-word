@@ -139,6 +139,9 @@ def hangman():
 
 # Test = watch?v=tEvk_WcX254 is the main hint
 
+## Notes on the above:
+search for python games and then use that code ##
+
 
 main()
 
