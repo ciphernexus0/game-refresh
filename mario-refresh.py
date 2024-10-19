@@ -19,3 +19,7 @@ font = pygame.font.SysFont('forte', 20)
 
 canvas = pygame.display.set_mode((WINDOW_WIDTH, WINDOW_HEIGHT))
 pygame.display.set_caption('Mario')
+
+//Refresh
+//im not sure what the source of this is our how to remove
+## talking 
